@@ -1,4 +1,9 @@
 davai
 GIt Master Class
 sh*t commit
+<<<<<<< HEAD
 Call the John
+Call the Sara
+Call the T-800
+=======
+>>>>>>> parent of f983bd3 (John)
